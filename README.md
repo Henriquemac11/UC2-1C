@@ -9,7 +9,7 @@
 - Coloque como título o seu nome completo. Ex: # SEU NOME
 - insira os links dos trabalhos e atividades que você desenvolveu e participou durante esta UC.
 
-# Tereza Oliveira
+# Henrique Maciel
 
 Atividade 1: Trello 
 - [Trello: NIKE](https://trello.com/invite/b/2ONj5llF/ATTI79d3fc974b7cfc4f96381f53665d306bDE2D49F1/analise-swot-nike)
