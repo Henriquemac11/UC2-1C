@@ -12,11 +12,11 @@
 # Tereza Oliveira
 
 Atividade 1: Trello 
-[Trello: NIKE](https://trello.com/invite/b/2ONj5llF/ATTI79d3fc974b7cfc4f96381f53665d306bDE2D49F1/analise-swot-nike)
-[Trello: Gerenciador de tarefas](https://trello.com/invite/b/tzJqQv6c/ATTIcac4d8069cd08e145afb7eb6da8cea579263644E/gerenciador-de-tarefas)
-[Canva: Moradias em lugares inadequados](https://www.canva.com/design/DAGCfmrJtpQ/XYYHA_xkNL4-ltXdDd-5og/edit?utm_content=DAGCfmrJtpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Canva: typescript](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit)
-[Grupo](link)
+- [Trello: NIKE](https://trello.com/invite/b/2ONj5llF/ATTI79d3fc974b7cfc4f96381f53665d306bDE2D49F1/analise-swot-nike)
+- [Trello: Gerenciador de tarefas](https://trello.com/invite/b/tzJqQv6c/ATTIcac4d8069cd08e145afb7eb6da8cea579263644E/gerenciador-de-tarefas)
+- [Canva: Moradias em lugares inadequados](https://www.canva.com/design/DAGCfmrJtpQ/XYYHA_xkNL4-ltXdDd-5og/edit?utm_content=DAGCfmrJtpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Canva: typescript](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit)
+- [Grupo](link)
 
 
 
