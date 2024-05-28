@@ -18,5 +18,5 @@ Atividade 1: Trello
 - [Canva: typescript](https://www.canva.com/design/DAGEjUJ54Pc/feL3I6NAOpKGJy6lopU_aQ/edit)
 - [Emprego do sonhos](https://docs.google.com/document/d/1W6V6_d9MmLgeRwLLiqYK1nEY4fHqTr4vSt7tYoOf8P8/edit?usp=sharing)
 - [Business Model Canvas](https://miro.com/app/board/uXjVKF5aegw=/?share_link_id=268829609335)
-
+- [Grafico de gantt](https://docs.google.com/spreadsheets/d/1Og09hiKSlyyfKgpxTYFunzh398mcsw5k1DTgf1GXu1U/edit?usp=sharing)
 
